@@ -1,0 +1,19 @@
+.opinion {
+  background-image: radial-gradient(circle, $color1, $color3);
+  text-align: center;
+  font-weight: 800;
+  text-align: center;
+  h3 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  #enviar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+#formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
